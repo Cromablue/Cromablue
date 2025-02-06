@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/Cromablue">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cromablue&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cromablue&show_icons=true&theme=transparent&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cromablue&layout=compact&theme=transparent&hide_border=true" />
   </a>
 </p>
